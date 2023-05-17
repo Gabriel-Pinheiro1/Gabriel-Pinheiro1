@@ -1,4 +1,4 @@
-# Olá!! eu sou o Gabriel Pinheiro
+# Olá!! Eu sou o Gabriel Pinheiro
  🏛  Acadêmico em Sistemas e mídais Digitais pela UFC<br>📘 Estudante de frontend e backend para programação web<br>💻 Entusiasta por tecnologia
  
 
