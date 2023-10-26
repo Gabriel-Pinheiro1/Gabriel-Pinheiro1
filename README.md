@@ -1,5 +1,5 @@
 # Olá!! Eu sou o Gabriel Pinheiro
- 🏛  Acadêmico em Sistemas e mídais Digitais pela UFC<br>📘 Estudante de frontend e backend para programação web<br>💻 Entusiasta por tecnologia
+ 🏛  Acadêmico em Sistemas e mídais Digitais pela UFC<br>📘 💻 Entusiasta por tecnologia
  
 
 ### 📊 GitHub Stats:
